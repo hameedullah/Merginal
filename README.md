@@ -162,7 +162,7 @@ offers the following keymaps:
 * `cc`     Checkout the commit under the cursor.
 * `C`      Same as cc.
 * `gd`     Diff against the commit under the cursor.
-* `cc`     Cherry-pick the commit under the cursor into the currently checked out
+* `cp`     Cherry-pick the commit under the cursor into the currently checked out
            branch. If there are cherry-pick conflicts, the
            cherry-pick conflicts buffer will open in place of the
            history log buffer.
